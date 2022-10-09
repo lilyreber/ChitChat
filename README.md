@@ -32,4 +32,5 @@ ChitChat comes with three major parts, that have to be built and used separately
 
 * `Qt` 5 with modules `Widgets` and `Network` - GUI and network.
 
-[![Watch the video](https://img.youtube.com/vi/v=3HuOLv-mzuA/maxresdefault.jpg)](https://www.youtube.com/watch?v=3HuOLv-mzuA)
+![](gifs.com/gif/Ogz41p)
+[Watch the video](https://www.youtube.com/watch?v=3HuOLv-mzuA)
